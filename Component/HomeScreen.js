@@ -1,3 +1,5 @@
+// temporary 
+
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, Button, ScrollView, Dimensions, PanResponder } from 'react-native';
