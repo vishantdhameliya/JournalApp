@@ -7,6 +7,8 @@ import  TextInputScreen  from './Component/TextInputScreen';
 import HomeScreen from './Component/HomeScreen';
 
 
+//chech
+
 const Stack = createNativeStackNavigator();
 
 function App() {
